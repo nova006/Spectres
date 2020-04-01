@@ -4,6 +4,5 @@ dependencies:
   - appmode
   - voila
   - matplotlib=3.1.*
-  - mysql=5.5.*
   - astropy
 
